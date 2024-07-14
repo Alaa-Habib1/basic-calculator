@@ -19,3 +19,9 @@ This is a simple command-line calculator written in C++.
 
 ```sh
 g++ calculator.cpp -o calculator
+
+## Run instructions
+open your terminal
+then type :
+./calculator    # On Unix-based systems (Linux/macOS)
+calculator.exe  # On Windows
